@@ -1,0 +1,16 @@
+site_name: Guía de Servicios de Red
+
+nav:
+  - Inicio: index.md
+  - DHCP: dhcp.md
+  - DNS: dns.md
+  - Apache: apache.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
